@@ -76,12 +76,7 @@ DeviceFileEvents
 
 ## Created By:
 - **Author Name**: Michael C
-- **Date**: November 1, 2025
-
-## Validated By:
-- **Reviewer Name**: 
-- **Reviewer Contact**: 
-- **Validation Date**: 
+- **Date**: July 6, 2025
 
 ---
 
@@ -93,4 +88,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `September  6, 2024`  | `Josh Madakor`   
+| 1.0         | Initial draft                  | `November  12, 2025`  | `Michael c`   
